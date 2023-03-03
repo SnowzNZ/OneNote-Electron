@@ -1,0 +1,14 @@
+{
+  "name": "onenote-electron",
+  "version": "1.0.0",
+  "description": "Electron app for OneNote",
+  "main": "main.js",
+  "author": "SnowzNZ",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
